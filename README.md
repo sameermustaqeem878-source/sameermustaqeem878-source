@@ -22,15 +22,6 @@ A detail-oriented **Software Engineer** skilled in full-stack web development, m
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 🏆 Achievements & Honors
 
 - **SEEF Government Scholarship:** Awarded for academic excellence (2024–2025).
