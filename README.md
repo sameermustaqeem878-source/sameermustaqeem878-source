@@ -1,4 +1,4 @@
-# Hi there, I'm M. Sameer Mustaqeem 👋
+Muhammad Sameer Mustaqeem 
 
 A detail-oriented **Software Engineer** skilled in full-stack web development, mobile applications, machine learning, and project management. Currently interning as a **MERN Stack Development Intern** at Coderatory.
 
